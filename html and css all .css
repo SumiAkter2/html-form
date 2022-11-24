@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport", content="width=device-width", initial-scale=1; >
+	<title>Html & Css layout</title>
+<style>
+	header{
+		background-color: green,0.6;
+		color: black;
+		text-align: left;
+		padding: 2px;
+
+	}
+</style>
+</head>
+<body>
+	<header>
+<h1>Introduction</h1>
+<p>My name is Rasheduzzaman.I am a medical student of <abbr Dhaka Medical collage & Hospital.>DMCH</abbr>.I read in M.B.B.S 2nd year.After completing my M.B.B.S my became a good <strong>Doctor.</strong>.Pray for me that i could be a great doctor.  </p>
+</body>
+</html>
